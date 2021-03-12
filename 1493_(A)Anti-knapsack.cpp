@@ -31,8 +31,6 @@ const ll                    mod = 1e9 + 7;
 
 using namespace std;
 
-
-
 // bool isPrime(int n)
 // {
 //     if (n <= 1)
