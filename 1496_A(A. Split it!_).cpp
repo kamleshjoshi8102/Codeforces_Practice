@@ -1,14 +1,3 @@
-/*
-       ／＞  フ
-      |  _  _|
-     ／`ミ _x 彡      * MEOW *
-    /      |
-   /   ヽ   ﾉ
-／￣|   | | |
-| (￣ヽ＿_ヽ_)_)
-＼二つ
-*/
-#pragma GCC optimize("Ofast")
 #include <bits/stdc++.h>
 #define ll                  long long
 #define llu                 long long unsigned int
