@@ -117,7 +117,7 @@ int joshi(void)
       // #endif
 
       ll test_case=1;
-      cin>>test_case;
+//       cin>>test_case;
      
       while(test_case--)
       {
