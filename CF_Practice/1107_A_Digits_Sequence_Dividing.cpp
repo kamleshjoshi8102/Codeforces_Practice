@@ -1,15 +1,3 @@
-/*
-       ／＞  フ
-      |  _  _|
-     ／`ミ _x 彡      * MEOW *
-    /      |
-   /   ヽ   ﾉ
-／￣|   | | |
-| (￣ヽ＿_ヽ_)_)
-＼二つ
-*/
-
-
 /*   => int overflow
      => array bounds 
      => special cases (n=1?)
