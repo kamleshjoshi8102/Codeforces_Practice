@@ -19,7 +19,6 @@
 #define mem1(a)             memset(a,-1,sizeof(a))
 #define mem0(a)             memset(a,0,sizeof(a))
 #define joshi               main
-#define cb                  cout<<"Case "<<"#"<<test_case<<": ";
 
 
 
