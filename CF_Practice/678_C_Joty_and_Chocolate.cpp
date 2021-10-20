@@ -108,7 +108,7 @@ int main(void)
 
 
       ll test_case=1;
-      cin>>test_case;
+  
      
       while(test_case--)
       {
